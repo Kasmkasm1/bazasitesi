@@ -23,7 +23,7 @@ body {
 }
 
 .kart-container {
-    max-width: 450px;
+    max-width: 605px;
     margin: 0 auto;
 }
 
@@ -47,7 +47,7 @@ body {
 
 .kart-resim {
     width: 100%;
-    height: 220px;
+    height: 380px;
     background-size: cover;
     background-position: center;
 }
